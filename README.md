@@ -23,3 +23,5 @@ Method:
 1. Machine Learning: Decision Tree Regressor model used for predicting rainfall.
 2. Data Analysis: Data analysis techniques used for crop recommendations.
 3. Data Visualization: Pie and bar charts used to display predicted monthly rainfall.
+
+you can edit your hobli district and crops data and everything in data.csv and CROPS.CSV
